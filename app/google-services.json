@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "470957681010",
+    "firebase_url": "https://gasonline-ca346.firebaseio.com",
+    "project_id": "gasonline-ca346",
+    "storage_bucket": "gasonline-ca346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470957681010:android:389d5af7ffc734cb",
+        "android_client_info": {
+          "package_name": "com.example.kusuma_ind.gasonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470957681010-gqtknucknfkkp9geu03i8ne09tgiua18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJNYzB7b_VqD7KngNxlVaZgnXLHq3gTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
